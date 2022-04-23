@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Anggi's Project 
 
-[Project 1 Title](https://github.com/angginfauziah/angginfauziah.github.io/blob/main/Tugas%20Mandiri%20Pertemuan%2011_Anggi%20Nur%20Fauziah_UGM04.ipynb)
+[Dummy Project](https://github.com/angginfauziah/angginfauziah.github.io/blob/main/Dummy%20Project.ipynb)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
