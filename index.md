@@ -4,8 +4,8 @@
 
 ### Dummy Project 
 
-[First Project](https://github.com/angginfauziah/angginfauziah.github.io/blob/main/Dummy%20Project.ipynb)
-
+[First Project](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
