@@ -2,10 +2,10 @@
 
 ---
 
-### Dummy Project 
+### Anggi's Project 
 
-[First Project](https://github.com/angginfauziah/angginfauziah.github.io/blob/main/Dummy%20Project.ipynb)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Dummy Project](https://github.com/angginfauziah/angginfauziah.github.io/blob/main/Dummy%20Project.ipynb)
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
