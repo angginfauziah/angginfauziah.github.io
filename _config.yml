@@ -1,10 +1,8 @@
 title: Anggi Nur Fauziah # your name (or website title) here
 logo: "/images/fotoangi.png?raw=true" # your photo (or logo) here
 description: > # (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>Saya merupakan mahasiswa statistika Universitas Padjadjaran <br>
-  Second description 
-  <br><br>
+    <br>Statistics Student at Padjadjaran University <br>
+  <br>PZSIB Data Warehousing, Analysis, and Visualization for Business Insights<br>
   <a href="https://www.linkedin.com/in/angginurfauziah/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
